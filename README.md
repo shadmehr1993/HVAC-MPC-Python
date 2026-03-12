@@ -29,6 +29,9 @@ The controller optimizes the coordinated operation of:
 
 The surrogate MPC serves as a **physics-based benchmark** against which data-driven controllers (DRL, BC, IRL) are evaluated in the broader research project.
 
+<img width="1002" height="455" alt="image" src="https://github.com/user-attachments/assets/af7f864f-6821-4f53-b287-8ef18d9e8637" />
+
+
 > ⚠️ **Note:** This is a **surrogate version** of the MPC controller used in the research study. It reproduces the main optimization logic using simplified models to facilitate reproducibility and experimentation.
 
 ---
